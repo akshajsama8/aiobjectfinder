@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#noOfObj, #start, #status{
+    font-size: 18px;
+}
+
+.heading{
+    width: 100%;
+    font-size: 24px;
+    margin-top: 0px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 15%;
+    line-height: 2;
+    text-align: left;
+    background-color: #5bc0de;
+    text-indent: 3ch;
+}
+
+canvas{
+    border: 2px solid #5bc0de;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 15px 15px 15px white;
+}
+
+#object_input{
+    background-color: orange;
+}
